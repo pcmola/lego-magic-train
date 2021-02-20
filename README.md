@@ -1,10 +1,8 @@
-# lego-magic-train
+# Lego Magic Train
 ## Using an ultrasonic sensor, I created a piece of moving a LEGO train. 
 The train speeds up when I put my hand close to the sensor.
 If I move my hand away from the sensor, it slows down.
 
-
-# Lego Magic Train
 
 ![Snapshot](https://postfiles.pstatic.net/MjAxODAxMjhfODYg/MDAxNTE3MTUwOTM4Mjc2.YL84bLLy0iOVzgMu2ipX0LmC_z6SB9mWoDD0_AkqPsYg.Bxs1Z1z7_ugDtbG1jgFj1wVbXSbPzHvvR9u76VJi6J0g.PNG.pcmola/IMG_9762_0000011006ms.png?type=w773)
 

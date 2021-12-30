@@ -4,7 +4,7 @@ The train speeds up when I put my hand close to the sensor.
 If I move my hand away from the sensor, it slows down.
 
 
-![Snapshot](https://postfiles.pstatic.net/MjAxODAxMjhfODYg/MDAxNTE3MTUwOTM4Mjc2.YL84bLLy0iOVzgMu2ipX0LmC_z6SB9mWoDD0_AkqPsYg.Bxs1Z1z7_ugDtbG1jgFj1wVbXSbPzHvvR9u76VJi6J0g.PNG.pcmola/IMG_9762_0000011006ms.png?type=w773)
+![Snapshot](https://postfiles.pstatic.net/MjAyMDAxMTZfODQg/MDAxNTc5MTc4MDQzNzk4.8y6ymUVbpDd-lPapzybeNY5NkYDwlhyLXOCY9RYng6cg.VhaKU0HiZJT1UIHiKQIFMbRMuz_uSX6JQh_02YJVVE4g.PNG.pcmola/IMG_9762_0000011006ms.png?type=w773)
 
 ![Snapshot](https://blogfiles.pstatic.net/MjAxODAzMjNfMTky/MDAxNTIxNzM0MDI3MDk3.Bv8Sf-T5MEnHxsIt0_YGFSOqO_LBvQxnCN188WgBvr4g.hTyRdO5RL1A-LB2A8MXVinF3mE4r3Opv3_hfLDitHssg.PNG.pcmola/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.PNG)
 
